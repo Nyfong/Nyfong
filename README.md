@@ -37,12 +37,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<hr/>
-<div align="center">
-  <img src="https://static.invenglobal.com/upload/image/2023/02/27/i1677483087505225.gif" alt="developer GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
-</div>
-<br/>
 
+<br/>
+<div align="center">
+    <img src="https://static.invenglobal.com/upload/image/2023/02/27/i1677483087505225.gif" />
+</div>
 <hr/>
 
 <br/>
